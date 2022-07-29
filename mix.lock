@@ -1,5 +1,5 @@
 %{
-  "axon": {:git, "https://github.com/elixir-nx/axon.git", "878daa579e52ec813f174e7c504cf17999a57421", []},
+  "axon": {:git, "https://github.com/elixir-nx/axon.git", "859ea139a135157099ad2c4c1e03d06e8826b2d8", []},
   "castore": {:hex, :castore, "0.1.17", "ba672681de4e51ed8ec1f74ed624d104c0db72742ea1a5e74edbc770c815182f", [:mix], [], "hexpm", "d9844227ed52d26e7519224525cb6868650c272d4a3d327ce3ca5570c12163f9"},
   "complex": {:hex, :complex, "0.4.1", "5d5a7bdbec13428c05824bac550b7d2b14ec395cd64663eca3cb0d3359aa22c5", [:mix], [], "hexpm", "6a813529dddba9bdfc17dffdd1aeda7b3d6891b76c8d4c1ae902ec74eb496a32"},
   "cowboy": {:hex, :cowboy, "2.9.0", "865dd8b6607e14cf03282e10e934023a1bd8be6f6bacf921a7e2a96d800cd452", [:make, :rebar3], [{:cowlib, "2.11.0", [hex: :cowlib, repo: "hexpm", optional: false]}, {:ranch, "1.8.0", [hex: :ranch, repo: "hexpm", optional: false]}], "hexpm", "2c729f934b4e1aa149aff882f57c6372c15399a20d54f65c8d67bef583021bde"},
